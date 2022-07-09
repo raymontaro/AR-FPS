@@ -1,2 +1,2 @@
 # AR-FPS
-All of my work are inside Asset/_main folder
+All of my work are inside Assets/_main folder
